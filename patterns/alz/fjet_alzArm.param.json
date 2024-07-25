@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "FileJetCorp"
+      "value": "fjet"
     },
     "platformManagementGroup": {
-      "value": "Platform"
+      "value": "fjet-platform"
     },
     "IdentityManagementGroup": {
-      "value": "Platform"
+      "value": "fjet-platform"
     },
     "managementManagementGroup": {
-      "value": "Platform"
+      "value": "fjet-platform"
     },
     "connectivityManagementGroup": {
-      "value": "Platform"
+      "value": "fjet-platform"
     },
     "LandingZoneManagementGroup": {
-      "value": "Landing Zones"
+      "value": "fjet-landingzones"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
