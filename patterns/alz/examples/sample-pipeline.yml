@@ -1,6 +1,6 @@
 variables:
   location: "eastus2"
-  ManagementGroupPrefix: "FileJetCorp"
+  ManagementGroupPrefix: "fjet"
   serviceConnectionName: "fjet_ado_sc-AMBA - Azure Monitor Baseline Alerts"
 
 pool:
