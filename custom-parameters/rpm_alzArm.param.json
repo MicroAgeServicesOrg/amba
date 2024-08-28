@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "fjet"
+      "value": "rpm"
     },
     "platformManagementGroup": {
       "value": "fjet-platform"

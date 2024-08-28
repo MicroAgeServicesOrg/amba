@@ -92,7 +92,7 @@
       "value": ""
     },
     "BYOActionGroup": {
-      "value": ""
+      "value": "/subscriptions/FB6BAB92-56B8-4746-A043-112B266D9214/resourceGroups/masvc-monitoringresources-rg/providers/microsoft.insights/actionGroups/masvc-connectwise"
     },
     "BYOAlertProcessingRule": {
       "value": ""
