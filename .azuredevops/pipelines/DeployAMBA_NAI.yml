@@ -1,7 +1,7 @@
 variables:
   location: "centralus"
   ManagementGroupPrefix: "nai"
-  serviceConnectionName: "nai_ado_sc-AMBA - Azure Monitor Baseline Alerts"
+  serviceConnectionName: "masvc-ado-sp-alzbicep-NAI"
 
 pool:
   vmImage: ubuntu-latest
