@@ -18,7 +18,7 @@
         "value": "nai-platform"
       },
       "LandingZoneManagementGroup": {
-        "value": "nai-landingzones"
+        "value": "nai"
       },
       "enableAMBAConnectivity": {
         "value": "Yes"
